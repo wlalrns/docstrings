@@ -1,2 +1,1 @@
-# docstrings
-001
+how to maks a string
